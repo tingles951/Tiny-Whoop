@@ -15,15 +15,6 @@ This project demonstrates:
 - Practical electronics and debugging skills
 
 It bridges software and hardware in a tangible, flying system.
-
----
-
-## Status
-- Firmware: ✅ Flashed
-- Configuration: ✅ Functional
-- Flight testing: ⏳ In progress
-- Frame: 3D printed
-
 ---
 
 ## Future Improvements
